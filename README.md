@@ -1,1 +1,3 @@
 # projectOne
+This will clean, analyze, and assess freelancer earnings and job trends to assess...
+More details soon
